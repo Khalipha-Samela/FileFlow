@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Build files
+dist/
+build/
+*.spec
+
+# Executables
+*.exe
+
+# Logs & user data
+history.txt
+last_folder.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
