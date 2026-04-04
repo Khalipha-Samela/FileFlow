@@ -59,6 +59,7 @@ python FileFlow.py
 
 ## 📁 Project Structure
 
+```
 fileflow/
 │
 ├── FileFlow.py          # Main app
@@ -74,6 +75,7 @@ fileflow/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
