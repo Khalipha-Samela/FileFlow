@@ -1,8 +1,0 @@
-{
-  "Images": [".jpg", ".png", ".jpeg", ".gif"],
-  "Documents": [".pdf", ".docx", ".txt"],
-  "Videos": [".mp4", ".mkv"],
-  "Music": [".mp3"],
-  "Code": [".py", ".js", ".html", ".css"],
-  "Archives": [".zip", ".rar"]
-}
